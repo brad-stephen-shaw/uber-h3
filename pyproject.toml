@@ -1,0 +1,13 @@
+[project]
+name = "uber-h3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "h3>=4.2.2",
+    "jupyterlab>=4.3.6",
+    "notebook>=7.3.3",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+]
